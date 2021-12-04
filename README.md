@@ -1,6 +1,6 @@
 # Product_Management_APIs_MongoDB
 
-SCHEMA:
+### SCHEMA:
 
 
 <------ PRODUCT ------>
@@ -25,7 +25,7 @@ SCHEMA:
 * product ids : Array of String
 
 
-# GET, POST, PUT, DELETE REQUESTS:
+### GET, POST, PUT, DELETE REQUESTS:
 
 
 <------ ADD ------>
